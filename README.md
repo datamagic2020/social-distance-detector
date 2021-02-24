@@ -11,3 +11,7 @@ If you want to do more improvisation then you can calculate socail distance thre
   3- Link to Download yolov3.weights for COCO dataset - https://pjreddie.com/darknet/yolo/  	</br>
   4- Put the downloaded yolov3.weights in your project folder  	</br>
   5- Run this code  : python SocialDistanceDetector.py	
+  
+  
+  ![alt text](https://github.com/datamagic2020/social-distance-detector/blob/master/Social_Distance_Detection.jpg?raw=true)
+  
