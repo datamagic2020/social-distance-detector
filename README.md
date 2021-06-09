@@ -1,5 +1,7 @@
 # social-distance-detector
 
+![Social_distance](https://github.com/datamagic2020/social-distance-detector/blob/master/social%20distance%20design.png)
+
 This code will help you to do social distance detectioni in this COVID-19 situation at your premise. This is very basic code, feel free to checkout and do any improvisations.
 
 You can change the socail distance threshold in program to make sure it works best for the your camera/input view. 
